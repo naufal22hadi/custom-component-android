@@ -4,7 +4,7 @@
         <item name="android:textColor">@color/red</item>
         <item name="android:textSize">12sp</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:fontFamily">@font/tahu</item>
     </style>
 
     <style name="LionParcelButtonStyle" parent="Widget.AppCompat.Button">
